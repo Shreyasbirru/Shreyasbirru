@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <h2>🐍 My GitHub Contributions</h2> -->
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
     alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/Shreyasbirru/Shreyasbirru/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
